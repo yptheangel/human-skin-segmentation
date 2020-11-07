@@ -1,6 +1,7 @@
 # Human Skin Segmentation
 Person segmentation (DeepLabV3 from torchvision) and Skin Segmentation using OpenCV Color Range masking
 
+![Sample Output](assets/results.jpg)
 # How to use
 1. Run on a single image `python skin_analyzer_folder.py`
 ```python
